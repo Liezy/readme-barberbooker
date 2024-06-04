@@ -27,6 +27,7 @@ O projeto "BarberBooker" foi criado para a matéria de Engenharia de Software do
 - Sprint 1 - [Relatório da Sprint 1](./docs/sprints/Sprint1_details.md)
 - Sprint 2 - [Relatório da Sprint 2](./docs/sprints/Sprint2_details.md)
 - Sprint 3 - [Relatório da Sprint 3](./docs/sprints/Sprint3_details.md)
+- Sprint 4 - [Relatório da Sprint 4](./docs/sprints/Sprint4_details.md)
 
 
 ## Caso de uso expandido
