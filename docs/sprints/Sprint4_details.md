@@ -33,4 +33,4 @@ O objetivo/valor da 4# interação é implementar algumas funcionalidades para o
 
 5. [Configuração do sistema](https://github.com/murilortu/BarberBooker/commit/cf0b120766e9b1d80f4daf481fda8e4d07d8ea1b)
    - Desenvolvedor: [Murilo Rodrigues Pereira](https://github.com/murilortu/BarberBooker)
-   - Revisor: [Eliézer Alencar Moreira](https://github.com/Liezy)
+   - Revisor: [João Victor Ribeiro Santos](https://github.com/Carecovisk)
