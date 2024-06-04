@@ -19,7 +19,7 @@ O objetivo/valor da iteração #3 e passar o projeto para o mode MVC e implement
    - Revisor: [Eliézer Alencar Moreira](https://github.com/Liezy)
    
 2. [Listar todos os agendamentos (ADM)](https://github.com/murilortu/BarberBooker/commit/4d31071b9d151509453c261171a37183b91db5d6)
-   - Desenvolvedor: [Eliézer Alencar Moreira](https://github.com/Liezy) e [Daniel Reis Aruda Sales](https://github.com/Danielpyreis)
+   - Desenvolvedor: [Eliézer Alencar Moreira](https://github.com/Liezy)
    - Revisor: [Daniel Reis Aruda Sales](https://github.com/Danielpyreis)
 
 3. [Listar todos os usuários (ADM) ](https://github.com/murilortu/BarberBooker/commit/ec30b8ca1906822d463a0ee17451dd2746c893a4)
